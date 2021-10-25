@@ -1,4 +1,4 @@
-Repository for: Singleton, A., Votzke, S., Yammine, A., & Gibert, JP. In Review. Increasing temperature weakens the positive effect of genetic diversity on population growth
+Repository for: Singleton, A., Liu, M., Votzke, S., Yammine, A., & Gibert, JP. Increasing temperature weakens the positive effect of genetic diversity on population growth, Ecology and Evolution, 2021
 
 This repository contains:
 
